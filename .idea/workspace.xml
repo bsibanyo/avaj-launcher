@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7d9a236-08d6-404f-8efb-303332b77765" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/avaj-launcher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Tower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/WeatherProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/WeatherTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/avaj-launcher.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaj-launcher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaj-launcher/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaj-launcher/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaj-launcher/avaj-launcher.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaj-launcher/src/launch/birds/Aircraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaj-launcher/src/launch/birds/Coordinates.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1grMjGmrfpBOUS1TnaKKtOYP2dR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d9a236-08d6-404f-8efb-303332b77765" name="Default Changelist" comment="" />
+      <created>1598868393598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598868393598</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
