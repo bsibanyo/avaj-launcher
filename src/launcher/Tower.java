@@ -1,7 +1,7 @@
 package launcher;
 import java.util.*;
 
-public class Tower
+public abstract class Tower
 {
     private ArrayList<Flyable> observers = new ArrayList<>();
 
