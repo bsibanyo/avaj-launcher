@@ -1,22 +1,27 @@
 package launcher;
 
-public abstract class AircraftFactory
+import launcher.*;
+import java.io.*;
+//import weather.*;
+
+public class AircraftFactory
 {
     public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height)
     {
         Coordinates coordinates = new Coordinates(longitude, latitude, height);
 
-        if(type.equals("Helicopter"))
+        String str = type.toLowerCase();
+        if(str.equals("Helicopter"))
         {
-            return new Helicopter(name, coordinates);
+            return (Flyable) new Helicopter(name, coordinates);
         }
-        else if(type.equals("JetPlane"))
+        else if(str.equals("JetPlane"))
         {
-            return new JetPlane(name, coordinates);
+            return (Flyable) new JetPlane(name, coordinates);
         }
-        else if(type.equals("Baloon"))
+        else if(str.equals("Baloon"))
         {
-            return new Baloon(name, coordinates);
+            return (Flyable) new Baloon(name, coordinates);
         }
         else
         {

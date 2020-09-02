@@ -1,8 +1,11 @@
 package launcher;
 
+import weather.WeatherTower;
+import weather.WriteToFile;
+
 public class Helicopter extends Aircraft
 {
-    private WeatherTower weatherTower;
+    private WeatherTower weatherTower =  new WeatherTower();
 
     Helicopter(String name, Coordinates coordinates)
     {
@@ -13,11 +16,6 @@ public class Helicopter extends Aircraft
     {
         String theWeather = this.weatherTower.getWeather(this.coordinates);
 
-//        switch (theWeather)
-//        {
-//            case "SUN":
-//                this.coordinates(this.coordinates.getLongitude() + 10);
-//        }
         if(theWeather.equalsIgnoreCase("RAIN"))
         {
             this.coordinates = new Coordinates(this.coordinates.getLongitude() + 5, this.coordinates.getLatitude(), this.coordinates.getHeight());

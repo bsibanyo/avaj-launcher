@@ -1,7 +1,11 @@
 package launcher;
 
+import weather.WeatherTower;
+
 public interface Flyable
 {
-    public void updateConditions();
-    public void registerTower(WeatherTower weatherTower);
+    void updateConditions();
+    void registerTower(WeatherTower weatherTower);
+
+   void add(Flyable flyable);
 }

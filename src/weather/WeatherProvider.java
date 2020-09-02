@@ -1,4 +1,6 @@
-package launcher;
+package weather;
+
+import launcher.Coordinates;
 
 public class WeatherProvider
 {

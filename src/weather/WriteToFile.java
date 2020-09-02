@@ -1,4 +1,4 @@
-package launcher;
+package weather;
 import java.io.*;
 
 public class WriteToFile

@@ -1,4 +1,6 @@
-package launcher;
+package weather;
+import launcher.Flyable;
+
 import java.util.*;
 
 public abstract class Tower
