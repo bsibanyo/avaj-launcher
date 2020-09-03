@@ -20,15 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d9a236-08d6-404f-8efb-303332b77765" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sources.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/launcher/Baloon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/launcher/JetPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reminder.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaner.sh" beforeDir="false" afterPath="$PROJECT_DIR$/cleaner.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compile.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiler.sh" beforeDir="false" afterPath="$PROJECT_DIR$/compiler.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulator.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/launcher/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Aircraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/launcher/AircraftFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/AircraftFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/launcher/Baloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Baloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/launcher/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Coordinates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/launcher/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Flyable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/launcher/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcher/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Tower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/launcher/JetPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/JetPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Simulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Tower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/WeatherProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/WeatherProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather/WeatherTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/WeatherTower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +49,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -107,5 +118,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598955309752" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598955457951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598955457951" />
   </component>
 </project>

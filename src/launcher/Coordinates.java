@@ -9,8 +9,23 @@ public class Coordinates
 
     Coordinates(int longitude, int latitude, int height)
     {
+        setLongitude(longitude);
+        setLatitude(latitude);
+        setHeight(height);
+    }
+
+    public void setLongitude(int longitude)
+    {
         this.longitude = longitude;
+    }
+
+    public void setLatitude(int latitude)
+    {
         this.latitude = latitude;
+    }
+
+    public void setHeight(int height)
+    {
         this.height = height;
     }
 

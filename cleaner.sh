@@ -3,6 +3,8 @@ cd launcher
 rm *.class
 cd ../weather
 rm *.class
-cd ../..
+cd ..
+rm simulator.txt
+cd ..
 rm sources.txt
 echo "$(tput setaf 2)Classes have been deleted successfully, Mr Bruce!"

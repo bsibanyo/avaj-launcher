@@ -2,9 +2,9 @@ package launcher;
 
 import weather.*;
 
-public class JetPlane extends Aircraft
+public class JetPlane extends Aircraft implements Flyable
 {
-    private WeatherTower weatherTower =  new WeatherTower();
+    private WeatherTower weatherTower;
 
     JetPlane(String name, Coordinates coordinates)
     {
@@ -13,27 +13,40 @@ public class JetPlane extends Aircraft
 
     public void updateConditions()
     {
-        String theWeather = this.weatherTower.getWeather(this.coordinates);
+        String weather = this.weatherTower.getWeather(this.coordinates);
+        switch (weather) {
+            case "SUN":
+                this.coordinates.setLatitude(this.coordinates.getLatitude() + 10);
+                this.coordinates.setHeight(this.coordinates.getHeight() + 2);
+                if (this.coordinates.getHeight() > 100)
+                    this.coordinates.setHeight(100);
+                WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!");
+                break;
+            case "RAIN":
+                this.coordinates.setLatitude(this.coordinates.getLatitude() + 5);
+                WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): NO WIPERS AT THIS SPEED");
+                break;
+            case "FOG":
+                this.coordinates.setLatitude(this.coordinates.getLatitude() + 1);
+                WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON");
+                break;
+            case "SNOW":
+                this.coordinates.setHeight(this.coordinates.getHeight() - 12);
+                WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): I THINK I CAN SEE THE WHITE WALKERS");
+                break;
+            default:
+                WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): NETWORK IS BAD I CAN'T CONTACT THE TOWER");
+                break;
+        }
+        if (this.coordinates.getHeight() <= 0) {
+            WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + ") landing.");
+            WriteToFile.getWriteToFile().writeFile("Tower  says: JetPlane#" + this.name + "(" + this.id + ")" + " unregistered from weather tower.");
+        }
+    }
 
-        if(theWeather.equalsIgnoreCase("RAIN"))
-        {
-            this.coordinates = new Coordinates(this.coordinates.getLongitude(), this.coordinates.getLatitude()  + 5, this.coordinates.getHeight());
-            WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): I love a rainy night");
-        }
-        else if(theWeather.equalsIgnoreCase("FOG"))
-        {
-            this.coordinates = new Coordinates(this.coordinates.getLongitude(), this.coordinates.getLatitude() + 1, this.coordinates.getHeight());
-            WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): Foggy");
-        }
-        else if(theWeather.equalsIgnoreCase("SUN"))
-        {
-            this.coordinates = new Coordinates(this.coordinates.getLongitude() + 10, this.coordinates.getLatitude(), this.coordinates.getHeight() + 2);
-            WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): Summer Time");
-        }
-        else if(theWeather.equalsIgnoreCase("SNOW"))
-        {
-            this.coordinates = new Coordinates(this.coordinates.getLongitude(), this.coordinates.getLatitude(), this.coordinates.getHeight() - 7);
-            WriteToFile.getWriteToFile().writeFile("JetPlane#" + this.name + "(" + this.id + "): Snowy");
-        }
+    public	void	registerTower(WeatherTower weatherTower) {
+        this.weatherTower = weatherTower;
+        WriteToFile.getWriteToFile().writeFile("Tower says: JetPlane#" + this.name + "(" + this.id + ")" + " registered to weather tower.");
+        this.weatherTower.register(this);
     }
 }

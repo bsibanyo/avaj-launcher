@@ -6,4 +6,6 @@ echo "$(tput setaf 1)"
 java weather.Simulator scenario.txt
 
   echo $(tput setaf 2)
-  cat -e simulation.txt;
+  cat simulator.txt;
+
+cd ..

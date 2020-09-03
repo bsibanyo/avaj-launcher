@@ -11,17 +11,17 @@ public class AircraftFactory
         Coordinates coordinates = new Coordinates(longitude, latitude, height);
 
         String str = type.toLowerCase();
-        if(str.equals("Helicopter"))
+        if(str.equals("helicopter"))
         {
-            return (Flyable) new Helicopter(name, coordinates);
+            return new Helicopter(name, coordinates);
         }
-        else if(str.equals("JetPlane"))
+        else if(str.equals("jetplane"))
         {
-            return (Flyable) new JetPlane(name, coordinates);
+            return new JetPlane(name, coordinates);
         }
-        else if(str.equals("Baloon"))
+        else if(str.equals("baloon"))
         {
-            return (Flyable) new Baloon(name, coordinates);
+            return new Baloon(name, coordinates);
         }
         else
         {

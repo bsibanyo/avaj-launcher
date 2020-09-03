@@ -1,23 +1,17 @@
 package weather;
 
-import launcher.AircraftFactory;
-import launcher.Flyable;
-
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
+//import launcher.AircraftFactory;
+//import launcher.Flyable;
+import launcher.*;
+import java.io.*;
 import java.lang.*;
 import java.util.*;
 
 
 
-public class Simulator
-{
-
-        private static WeatherTower weatherTower;
-    private static final List<Flyable> flyables = new ArrayList<>();
+public	class	Simulator {
+    private static WeatherTower weatherTower;
+    private static List<Flyable> flyables = new ArrayList<Flyable>();
 
     public static void main(String[] arg) throws InterruptedException {
         try {
@@ -31,11 +25,11 @@ public class Simulator
                     System.exit(1);
                 }
                 while ((line = reader.readLine()) != null) {
-                    Flyable flyables = AircraftFactory.newAircraft(line.split(" ")[0], line.split(" ")[1],
+                    Flyable flyable = AircraftFactory.newAircraft(line.split(" ")[0], line.split(" ")[1],
                             Integer.parseInt(line.split(" ")[2]), Integer.parseInt(line.split(" ")[3]),
                             Integer.parseInt(line.split(" ")[4]));
-                    if (flyables != null)
-                        flyables.add(flyables);
+                    if (flyable != null)
+                        flyables.add(flyable);
                 }
 
                 for (Flyable flyable : flyables) {
@@ -61,4 +55,3 @@ public class Simulator
         }
     }
 }
-
