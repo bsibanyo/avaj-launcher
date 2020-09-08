@@ -20,26 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d9a236-08d6-404f-8efb-303332b77765" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reminder.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleaner.sh" beforeDir="false" afterPath="$PROJECT_DIR$/cleaner.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compile.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compiler.sh" beforeDir="false" afterPath="$PROJECT_DIR$/compiler.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulator.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Aircraft.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/AircraftFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Baloon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Coordinates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Flyable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/Helicopter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launcher/JetPlane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simulator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weather/Simulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weather/Tower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weather/WeatherProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weather/WeatherTower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weather/WriteToFile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/launcher/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Aircraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/launcher/AircraftFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/AircraftFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcher/Baloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Baloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcher/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Coordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcher/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcher/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/launcher/JetPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/launcher/JetPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weather/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Simulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weather/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/Tower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weather/WeatherProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/WeatherProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weather/WeatherTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather/WeatherTower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

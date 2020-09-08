@@ -1,0 +1,147 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): GOOD MORNING MZANSI
+Baloon#B2(2): MY ASS IS FREEZING FROM HERE!
+Tower  says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H1(4): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Helicopter#H2(5): I LOVE A RAINY NIGHT
+Helicopter#H3(6): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Baloon#B3(7): MY ASS IS FREEZING FROM HERE!
+Tower  says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H4(9): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+Baloon#B1(1): ATLEAST THE GAS CAN KEEP US WARM
+Baloon#B2(2): ATLEAST THE GAS CAN KEEP US WARM
+JetPlane#J1(3): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H1(4): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Helicopter#H2(5): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Helicopter#H3(6): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+Baloon#B3(7): GOOD MORNING MZANSI
+JetPlane#J2(8): I THINK I CAN SEE THE WHITE WALKERS
+Helicopter#H4(9): I'M SOO COLD - OMARION
+Baloon#B1(1): ATLEAST THE GAS CAN KEEP US WARM
+Baloon#B2(2): WE JUST FLOATING AWAY!!!
+JetPlane#J1(3): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H1(4): I LOVE A RAINY NIGHT
+Helicopter#H2(5): I'M SOO COLD - OMARION
+Helicopter#H3(6): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Baloon#B3(7): WE JUST FLOATING AWAY!!!
+JetPlane#J2(8): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H4(9): I'M SOO COLD - OMARION
+Baloon#B1(1): MY ASS IS FREEZING FROM HERE!
+Tower  says: Baloon#B1(1) unregistered from weather tower.
+Baloon#B1(1) landing.
+Baloon#B2(2): WE JUST FLOATING AWAY!!!
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H1(4): I LOVE A RAINY NIGHT
+Helicopter#H2(5): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+Baloon#B3(7): WE JUST FLOATING AWAY!!!
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H4(9): I LOVE A RAINY NIGHT
+Baloon#B2(2): MY ASS IS FREEZING FROM HERE!
+Tower  says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H1(4): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Helicopter#H2(5): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+Baloon#B3(7): WE JUST FLOATING AWAY!!!
+JetPlane#J2(8): I THINK I CAN SEE THE WHITE WALKERS
+Helicopter#H4(9): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+Baloon#B2(2): ATLEAST THE GAS CAN KEEP US WARM
+JetPlane#J1(3): I THINK I CAN SEE THE WHITE WALKERS
+Helicopter#H1(4): I'M SOO COLD - OMARION
+Helicopter#H2(5): I LOVE A RAINY NIGHT
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+Baloon#B3(7): MY ASS IS FREEZING FROM HERE!
+Tower  says: Baloon#B3(7) unregistered from weather tower.
+Baloon#B3(7) landing.
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H4(9): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+Baloon#B2(2): GOOD MORNING MZANSI
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H1(4): I LOVE A RAINY NIGHT
+Helicopter#H2(5): I'M SOO COLD - OMARION
+Helicopter#H3(6): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H4(9): I'M SOO COLD - OMARION
+Baloon#B2(2): GOOD MORNING MZANSI
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H1(4): I LOVE A RAINY NIGHT
+Helicopter#H2(5): I'M SOO COLD - OMARION
+Helicopter#H3(6): I'M SOO COLD - OMARION
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+Helicopter#H4(9): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+Baloon#B2(2): WE JUST FLOATING AWAY!!!
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H1(4): I'M SOO COLD - OMARION
+Helicopter#H2(5): I'M SOO COLD - OMARION
+Helicopter#H2(5) landing.
+Tower  says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): I'M SOO COLD - OMARION
+JetPlane#J2(8): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H4(9): I'M SOO COLD - OMARION
+Baloon#B2(2): MY ASS IS FREEZING FROM HERE!
+Tower  says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): I THINK I CAN SEE THE WHITE WALKERS
+Helicopter#H1(4): I LOVE A RAINY NIGHT
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H4(9): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+Baloon#B2(2): ATLEAST THE GAS CAN KEEP US WARM
+JetPlane#J1(3): I THINK I CAN SEE THE WHITE WALKERS
+Helicopter#H1(4): I'M SOO COLD - OMARION
+Helicopter#H1(4) landing.
+Tower  says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+Helicopter#H4(9): I'M SOO COLD - OMARION
+Helicopter#H4(9) landing.
+Tower  says: Helicopter#H4(9) unregistered from weather tower.
+Baloon#B2(2): WE JUST FLOATING AWAY!!!
+JetPlane#J1(3): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): I'M SOO COLD - OMARION
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+Baloon#B2(2): ATLEAST THE GAS CAN KEEP US WARM
+Baloon#B2(2) landing.
+JetPlane#J1(3): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H3(6): I'M SOO COLD - OMARION
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+JetPlane#J1(3): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+JetPlane#J2(8): I THINK I CAN SEE THE WHITE WALKERS
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H3(6): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+JetPlane#J1(3): NO WIPERS AT THIS SPEED
+Helicopter#H3(6): I'M SOO COLD - OMARION
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+JetPlane#J1(3): I THINK I CAN SEE THE WHITE WALKERS
+JetPlane#J1(3) landing.
+Tower  says: JetPlane#J1(3) unregistered from weather tower.
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+Helicopter#H3(6): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
+Helicopter#H3(6): SHUCKS! LET'S HOPE WE DON'T CRASH INTO A BUILDING
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): NO WIPERS AT THIS SPEED
+Helicopter#H3(6): I'M SOO COLD - OMARION
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): OH WAIT I CAN SEE MY HOUSE FROM HERE!
+JetPlane#J2(8): I SHOULD HAVE BOUGHT A CAR, ATLEAST IT HAS AN AIRCON
+Helicopter#H3(6): I LOVE A RAINY NIGHT
+JetPlane#J2(8): IT'S A SUNNY DAY AND EVERYBODY IS FEELING OKAY!
